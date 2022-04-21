@@ -1,0 +1,1 @@
+This project is done towards fulfilling the requirements of the course **CS 541 Artificial Intelligence** offered by Stevens Institute of Technology.  
