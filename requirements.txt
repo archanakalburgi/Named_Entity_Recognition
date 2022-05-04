@@ -1,0 +1,5 @@
+pip uninstall -y tensorflow
+pip install tensorflow-gpu==1.13.1
+pip install keras==2.2.4
+pip install git+https://www.github.com/keras-team/keras-contrib.git
+pip install plot_keras_history
